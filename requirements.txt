@@ -1,0 +1,7 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+httpx==0.28.1
+paddleocr==2.6.1.0
+paddlepaddle==2.6.1
+opencv-python-headless==4.10.0.84
+numpy==1.23.5
