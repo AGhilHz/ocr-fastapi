@@ -1,6 +1,6 @@
 # OCR FastAPI Service with PaddleOCR
 
-[🇮🇷 فارسی راهنما](./README.fa.md)
+[🇮🇷  راهنمای فارسی](./README.fa.md)
 
 This project provides a **FastAPI-based OCR (Optical Character Recognition) service**  
 using [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR).
